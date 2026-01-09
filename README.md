@@ -4,6 +4,9 @@ A web app for creating code-generated isometric art.
 
 ![CodeArt](https://img.shields.io/badge/Status-90%25%20Complete-brightgreen)
 
+<img width="1250" height="776" alt="image" src="https://github.com/user-attachments/assets/2ccf9151-7bd7-4e91-b7d2-b4a341037c8f" />
+
+
 ## Overview
 
 **CodeArt** is a generative art tool focused on isometric 3D geometric patterns. It offers both a visual editor for beginners and a code editor for advanced users, with real-time preview and multiple export options.
